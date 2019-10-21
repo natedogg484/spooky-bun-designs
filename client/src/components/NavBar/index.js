@@ -4,14 +4,14 @@ import "./style.css"
 function Navbar () {
   return (
     <nav className='navbar navbar-expand-lg navbar-dark bg-dark'>
-      <a className='navbar-brand' href='https://www.linkedin.com/in/nathan-schmidt-6a294a114/'>
-        LinkedIn Profile
+      <a className='navbar-brand' href='/'>
+        Home
       </a>
-      <a className='navbar-brand' href='https://github.com/natedogg484'>
-        Github Profile
+      <a className='navbar-brand' href='/galleria'>
+        Gallery
       </a>
-      <a className='navbar-brand' href='https://docs.google.com/document/d/1VMtq_k8sHVKxWfwsh741hllx3c1lx86M1CUhcx3mYrI/edit?usp=sharing'>
-        Resume
+      <a className='navbar-brand' href='/about'>
+        About
       </a>
     </nav>
   )

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/natedogg484/spooky-bun-designs/issues"
   },
-  "homepage": "https://github.com/natedogg484/spooky-bun-designs#readme"
+  "homepage": "https://github.com/natedogg484/spooky-bun-designs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

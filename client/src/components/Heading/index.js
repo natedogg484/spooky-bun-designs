@@ -5,7 +5,7 @@ export function Header(props) {
   return (
     <h2 id="title">{props.children}</h2>
   )
-}
+} 
 
 export function Title(props){
   return(
